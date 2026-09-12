@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "veinminer",
+    "name": "Vein Miner",
+    "description": "Client-side vein miner for gray terracotta and Railcraft quarried stone. Hold G while breaking a matching block to chain-mine the connected cluster.",
+    "version": "1.0.0",
+    "mcversion": "1.7.10",
+    "authorList": ["you"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
